@@ -3366,7 +3366,7 @@
 		color: #f2a3a5;
 		padding: 22em 0 11em 0;
 		background-color: #0c0c0c;
-		background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../../images/einstein.jpg");
+		background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1) ), url("../../images/einstein.jpg");
 		background-size: cover;
 		background-repeat: repeat;
 		background-position: 15% left;
