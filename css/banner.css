@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico");
+
+.banner {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient( 
+        rgba(0, 0, 0, 0.5), 
+        rgba(0, 0, 0, 0.5) ), 
+        url("../images/header_background.jpg"
+        ); 
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.nav-bar {
+    max-width: 80em;
+    width: calc(100% - 6em);
+    margin: 0 auto;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 17px;
+    font-family: Lato;
+}
+
+.nav-bar a {
+    padding: 0 2em;
+}
+
+#logo{
+    float: left;
+    font-size: 30px;
+}
+
+#header{
+    height: 6.5em;
+    line-height: 6.5em;
+}

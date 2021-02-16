@@ -1,0 +1,17 @@
+.display-inline-block{
+    display: inline-block;
+}
+
+.flex-row-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.a-simple{
+    color: white;
+    text-decoration: none;
+}
+
+.a-simple:link, .a-simple:visited, .a-simple:hover, .a-simple:active{
+    color: white;
+}
